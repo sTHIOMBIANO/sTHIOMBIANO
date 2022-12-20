@@ -1,7 +1,7 @@
-### Hi there 👋
+ ====Bonjour a tous 
+ Je suis ***Simon THIOMBIANO*** apprenant au departement d'informatique<br>
+je suis très passionné de la programmation et j'utlise 
 
-<!--
-**sTHIOMBIANO/sTHIOMBIANO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
