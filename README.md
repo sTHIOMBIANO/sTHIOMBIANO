@@ -10,16 +10,16 @@ Je travaille sur une variété de technologies, allant du **développement web**
 Création de structures web sémantiques et accessibles, respectant les standards du web.
 
 ### 🎨 **CSS**  
-Maîtrise de la mise en forme des pages web avec CSS, y compris l'utilisation des préprocesseurs (SASS, LESS) et des techniques modernes (Flexbox, Grid).
+Maîtrise de la mise en forme des pages web avec CSS et des techniques modernes (Flexbox, Grid).
 
 ### 🖥 **JavaScript**  
-Développement d'interfaces interactives avec JavaScript, en utilisant des frameworks comme **React.js**, **Vue.js** et **Angular** pour des applications dynamiques.
+Développement d'interfaces interactives avec JavaScript, en utilisant des frameworks comme **React.js** pour des applications dynamiques.
 
 ### ⚙️ **Laravel**  
 Création d'applications web robustes et sécurisées avec Laravel, en suivant les principes du développement MVC.
 
 ### 🐘 **PHP**  
-Développement backend avec PHP, y compris l'utilisation de frameworks comme **Laravel** et **Symfony** pour des applications évolutives.
+Développement backend avec PHP, y compris l'utilisation de frameworks comme **Laravel** pour des applications évolutives.
 
 ### 🐍 **Python**  
 Développement de scripts et d'applications backend avec Python, notamment pour l'intégration d'API, l'analyse de données et l'automatisation de tâches.
@@ -63,9 +63,9 @@ Je m'efforce de rester à jour avec les dernières tendances et technologies pou
 
 ## Contact
 
-- **GitHub** : [Votre profil GitHub](https://github.com/votre-utilisateur)
-- **LinkedIn** : [Votre profil LinkedIn](https://www.linkedin.com/in/votre-utilisateur/)
-- **Email** : votre.email@example.com
+- **GitHub** : https://github.com/sTHIOMBIANO
+##- **LinkedIn** : https://www.linkedin.com/in/thiombiano
+- **Email** : simon.thiombiano@gmail.com
 
 <img  width="15px" height="15px" src="https://www.bing.com/images/search?view=detailV2&ccid=sxgAuWLS&id=E1E1B3E322A04986494F3050D1EA812F7046F899&thid=OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj&mediaurl=https%3a%2f%2fmpng.subpng.com%2f20180802%2ftpl%2fkisspng-logo-html5-brand-clip-art-%e6%9d%89-%e5%b1%b1-%e8%89%af-%e9%9b%84-5b62be01b565d5.334247781533197825743.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b31800b962d222f3d7874719d9b990be%3frik%3dmfhGcC%252bB6tFQMA%26pid%3dImgRaw%26r%3d0&exph=1040&expw=900&q=Html+Logo&simid=608003396401590066&FORM=IRPRST&ck=EEFDC83D02738C70001DF1930D46759D&selectedIndex=0&ajaxhist=0&ajaxserp=0">
 <J'aime tous les fans de la prommation>😂👌
