@@ -1,8 +1,6 @@
-# Profil de Développeur et Intégrateur de Solutions Digitales
+# Profil de Développeur Freelance
 
 Je suis un **développeur** et **intégrateur de solutions digitales** passionné par la création d'applications web, mobiles et l'intégration de systèmes complexes. Avec une solide expérience dans la gestion de projets technologiques, je combine mes compétences en développement avec une compréhension approfondie des besoins métiers pour créer des solutions performantes et sur mesure.
-
-Je travaille sur une variété de technologies, allant du **développement web** au **développement mobile**, en passant par la **gestion de bases de données** et l'intégration de **solutions d'analyse de données**. Mon objectif est de contribuer à l'innovation et à l'amélioration continue des systèmes en mettant l'accent sur la performance, la sécurité et l'expérience utilisateur.
 
 ## Compétences
 
